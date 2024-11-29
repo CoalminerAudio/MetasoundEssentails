@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MetasoundEssentails",
+	"Description": "A collection of metasound presets and patches",
+	"Category": "Audio",
+	"CreatedBy": "Coal Miner Audio",
+	"CreatedByURL": "https://Coalmineraudio.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
